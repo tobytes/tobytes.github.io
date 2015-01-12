@@ -2,8 +2,8 @@
 Information in accordance with section 5 TMG
 
 Tobias Reinwarth
-Albertstraße 29
-01097 Dresden
+Torgauer Str. 18
+01127 Dresden
 Germany
 
 ####Contact
@@ -12,8 +12,8 @@ E-Mail: info[at]out-of.coffee
 Person responsible for content in accordance with 55 Abs. 2 RStV
 
 Tobias Reinwarth
-Albertstraße 29
-01097 Dresden
+Torgauer Str. 18
+01127 Dresden
 Germany
 
 ###Disclaimer
