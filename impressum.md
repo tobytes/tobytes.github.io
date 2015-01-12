@@ -2,6 +2,7 @@
 layout: page
 title: Impressum
 permalink: /impressum/
+published: true
 ---
 
 ###Legal Disclosure
@@ -34,4 +35,3 @@ Quelle: http://www.twigg.de/
 ####Copyright
 Unless stated otherwise Out of Coffee is licensed under a 
 [Creative Commons Attribution-NonCommercial 4.0 International License.](http://creativecommons.org/licenses/by-nc/4.0/)
-
