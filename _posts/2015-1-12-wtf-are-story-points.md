@@ -11,6 +11,7 @@ Story points are a metric to measure the size of a task in comparison to other t
 During our estimation meetings we argued a lot about what story points should resemble. Should it be complexity, efford or both?
 
 Mike Cohn wrote in a [blogpost](http://www.mountaingoatsoftware.com/blog/its-effort-not-complexity), that story points should be more about effort but stated in a comment, that effort depends on complexity. In his [book](http://www.amazon.com/Agile-Estimating-Planning-Mike-Cohn/dp/0131479415/ref=sr_1_1?ie=UTF8&qid=1403210360&sr=8-1&keywords=Agile+Estimating+and+Planning) "Agile Estimating and Planning" he wrote:
+
 > A story-point estimate is an amalgamation of the amount of effort involved in developing the feature, the complexity of developing it, the risk inherent in it.
 
 One user on a [stackexchange thread](http://pm.stackexchange.com/questions/2765/why-use-story-points-instead-of-hours-for-estimating) describes this as the three aspects of story points: complexity, effort and doubt.
