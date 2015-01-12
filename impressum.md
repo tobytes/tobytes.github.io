@@ -1,3 +1,9 @@
+---
+layout: page
+title: Impressum
+permalink: /impressum/
+---
+
 ###Legal Disclosure
 Information in accordance with section 5 TMG
 
