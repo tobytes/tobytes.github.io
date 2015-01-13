@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"catego",
+				"categorized"
+			],
+			[
+				"myS",
+				"mySpecialFunction1"
+			],
+			[
+				"myBase",
+				"myBaseClass2"
+			],
+			[
+				"myBaseClass",
+				"myBaseClass1"
+			],
+			[
+				"member",
+				"memberC"
+			],
+			[
+				"memb",
+				"memberA"
+			],
+			[
+				"myC",
+				"myClassC"
+			],
+			[
+				"myCl",
+				"myClassA"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 127.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/toby/Downloads/ZendFramework-1.12.9-minimal/composer.json",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/ff.css",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/anreise.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/anekdoten.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/impressum.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/index.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/info.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/links.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/mail.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/sehensw.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/tips.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/uberuns.htm",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/zucht.xml",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/zucht.xsl",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/favicon.ico",
+		"/Users/toby/Projects/Lamas-im-Erzgebirge/emff_standard.swf",
+		"/Users/toby/Projects/blog/ghostblog/content/themes/vapor/partials/menu.hbs",
+		"/Users/toby/Projects/blog/ghostblog/content/themes/vapor/post.hbs",
+		"/Users/toby/Projects/blog/ghostblog/content/themes/vapor/page.hbs",
+		"/Users/toby/Projects/blog/ghostblog/content/themes/vapor/assets/css/screen.less",
+		"/Users/toby/Projects/blog/ghostblog/content/themes/vapor/default.hbs",
+		"/Users/toby/Projects/blog/ghostblog/content/themes/vapor/partials/legal-notice.hbs",
+		"/Users/toby/Projects/blog/ghostblog/core/shared/robots.txt",
+		"/Users/toby/Projects/blog/blog.yaml",
+		"/Users/toby/Projects/out-of-coffee.svg",
+		"/Users/toby/Projects/ZF2-Skeleton/Vagrantfile",
+		"/Users/toby/Projects/ZF2-Skeleton/puppet/manifests/default.pp",
+		"/Users/toby/Projects/ZF2-Skeleton/composer.json",
+		"/Users/toby/Projects/blogflask/blogflask/static/css/vendor/icomoon.css",
+		"/Users/toby/Projects/blogflask/blogflask/build/static/images/fb-profil.png",
+		"/Users/toby/Projects/blogflask/blogflask/templates/base.html",
+		"/Users/toby/Projects/blogflask/blogflask/static/css/style.less",
+		"/Users/toby/Projects/blogflask/blogflask/templates/widget_social.html",
+		"/Users/toby/Projects/blogflask/blogflask/content/posts/hello-world.md",
+		"/Users/toby/Projects/blogflask/blogflask/views.py",
+		"/Users/toby/Projects/blogflask/blogflask/templates/widget_cats.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/widget_tags.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/tag.html",
+		"/Users/toby/Projects/blogflask/blogflask/content/posts/lorem-ipsum.md",
+		"/Users/toby/Projects/blogflask/blogflask/templates/_post_footer.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/index.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/post.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/_list.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/_postfooter.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/widget_category.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/widget_tag.html",
+		"/Users/toby/Projects/blogflask/blogflask/templates/widget.html",
+		"/Users/toby/Projects/blogflask/blogflask/filter.py",
+		"/Users/toby/Projects/blogflask/blogflask/static/css/vendor/pure-min.css",
+		"/Users/toby/Projects/blogflask/blogflask/__init__.py",
+		"/Users/toby/Projects/blogflask/blogflask/config-dev.cfg",
+		"/Users/toby/Projects/blogflask/blogflask/static/css/style.css",
+		"/Users/toby/Projects/blogflask/blogflask/static/css/vendor/zenburn.css",
+		"/Users/toby/Projects/blogflask/requirements.txt",
+		"/Users/toby/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/toby/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/My Book/Documents/laptop_bak/LamaEdit_Projekt/LamaEdit/bin/Release/ff.css",
+		"/Users/toby/Library/Application Support/minecraft/versions/1.6.2/1.6.2.json",
+		"/Users/toby/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/toby/Projects/blogflask/blogflask/config.cfg",
+		"/Users/toby/Projects/blogflask/run.py",
+		"/Users/toby/Projects/blogflask/env/lib/python2.7/site-packages/flask_script/__init__.py",
+		"/Users/toby/Projects/blogflask/env/lib/python2.7/site-packages/flask_frozen/__init__.py",
+		"/Users/toby/Projects/blogflask/blogflask/conf.cfg",
+		"/Users/toby/Projects/blogflask/blogflask/dev-conf.cfg",
+		"/Users/toby/Projects/blogflask/blogflask/renderer.py",
+		"/Users/toby/Projects/blogflask/blogflask/content/pages/impress.md",
+		"/Users/toby/Projects/blogflask/blogflask/templates/page.html",
+		"/Users/toby/Projects/blogflask/.gitignore",
+		"/Users/toby/Projects/flask_blog/blogflask/templates/index.html",
+		"/Users/toby/Projects/flask_blog/blogflask/templates/base.html",
+		"/Users/toby/Projects/flask_blog/blogflask/config.cfg",
+		"/Users/toby/Projects/flask_blog/blogflask/filter.py",
+		"/Users/toby/Projects/flask_blog/blogflask/__init__.py",
+		"/Users/toby/Projects/flask_blog/blogflask/views.py",
+		"/Users/toby/Projects/flask_blog/run.py",
+		"/Users/toby/Projects/flask_blog/blogflask/pages/hello-world.md",
+		"/Users/toby/Projects/flask_blog/config.cfg",
+		"/Users/toby/Projects/flask_blog/helper.py",
+		"/Users/toby/Projects/flask_blog/blogbuilder.py",
+		"/Users/toby/Projects/flask_blog/tobyte.py",
+		"/Users/toby/Projects/flask_blog/slugify.py",
+		"/Users/toby/Documents/Arbeit/PHPCert/links.md",
+		"/Users/toby/Documents/Arbeit/PHPCert/book_quiz/array_q8.php",
+		"/Users/toby/Documents/Arbeit/PHPCert/Practice_Test.txt",
+		"/Users/toby/Documents/Arbeit/PHPCert/Quiz/switch_default_case.php",
+		"/Users/toby/Documents/Arbeit/PHPCert/Quiz/variable_variables.php",
+		"/Users/toby/Documents/Arbeit/PHPCert/Quiz/static_acces_nonstatic.php",
+		"/Users/toby/Documents/Arbeit/PHPCert/Quiz/verschachtelte_konstanten.php",
+		"/Users/toby/Documents/Arbeit/PHPCert/Quiz/untitled",
+		"/Users/toby/Projects/myntblog/_templates/layout.html",
+		"/Users/toby/Projects/myntblog/config.yml",
+		"/Users/toby/Projects/myntblog/_templates/page.header.html",
+		"/Users/toby/Projects/myntblog/_assets/css/_sass/screen.sass",
+		"/Users/toby/Projects/myntblog/_assets/css/responsive-nav.css",
+		"/Users/toby/Projects/myntblog/_assets/css/screen.css",
+		"/Users/toby/Projects/myntblog/_templates/page.footer.html",
+		"/Users/toby/Projects/myntblog/_assets/css/_sass/_base.sass",
+		"/Users/toby/Projects/myntblog/_assets/js/responsive-nav.min.js",
+		"/Users/toby/Documents/Arbeit/PHPCert/Quiz/Q64.php",
+		"/Users/toby/Documents/Arbeit/PHPCert/Quiz/Q57.php",
+		"/Users/toby/Documents/PHPCert/blogtest.php",
+		"/Users/toby/Documents/PHPCert/Q56.php",
+		"/Users/toby/Documents/PHPCert/Q55.php",
+		"/Users/toby/Documents/PHPCert/Q53.php",
+		"/Users/toby/Documents/PHPCert/Q51.php",
+		"/Users/toby/Documents/PHPCert/Q50.php",
+		"/Users/toby/Documents/PHPCert/Q49.php",
+		"/Users/toby/Documents/PHPCert/Q48.php",
+		"/Users/toby/Documents/PHPCert/Q46.php",
+		"/Users/toby/Documents/PHPCert/Q45.php",
+		"/Users/toby/Documents/PHPCert/Q43.php",
+		"/Users/toby/Documents/PHPCert/Q42.php",
+		"/Users/toby/Documents/PHPCert/Q41.php",
+		"/Users/toby/Documents/PHPCert/Q40.php",
+		"/Users/toby/Documents/PHPCert/Q38.php",
+		"/Users/toby/Documents/PHPCert/Q36.php",
+		"/Users/toby/Documents/PHPCert/Q35.php",
+		"/Users/toby/Documents/PHPCert/Q34.php",
+		"/Users/toby/Documents/PHPCert/Q33.php",
+		"/Users/toby/Documents/PHPCert/Q32.php",
+		"/Users/toby/Documents/PHPCert/Q31.php",
+		"/Users/toby/Documents/PHPCert/Q30.php",
+		"/Users/toby/Documents/PHPCert/Q27.php",
+		"/Users/toby/Documents/PHPCert/Q25.php",
+		"/Users/toby/Documents/PHPCert/Q24.php",
+		"/Users/toby/Documents/PHPCert/Q28.php",
+		"/Users/toby/Documents/PHPCert/A30.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"einzig har",
+			"section",
+			"copyright",
+			";\n",
+			"/\">",
+			"expand_path",
+			"name",
+			"host_name",
+			"vendor",
+			"Oswald",
+			"%);\n",
+			"third",
+			"heading-color",
+			"divider-color",
+			"menu-color",
+			"icon-color",
+			"visited",
+			"px",
+			"weight",
+			"border-top-bottom",
+			"splash",
+			"add_option",
+			"app",
+			"Manager",
+			"root",
+			"walk_directory",
+			"ignore",
+			"print",
+			"walk_directory",
+			"IGNORE",
+			"['']",
+			"print",
+			"pages",
+			"app",
+			"page",
+			"content",
+			"166",
+			"li",
+			"|",
+			"after",
+			"|",
+			"ORDER_ID",
+			"Gamis Kidd",
+			"98",
+			"Silvio",
+			"ORDER_ID",
+			"block",
+			"navigation",
+			"menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"current_app"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true
+}
