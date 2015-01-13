@@ -19,7 +19,7 @@ avatar: /images/placeholder.png
 footer-links:
   flickr: 
   github: tobytes
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: 1 # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: tobytes
 
 # Your disqus shortname, entering this will enable commenting on posts
