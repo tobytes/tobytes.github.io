@@ -33,6 +33,6 @@ Responsibility for the content of external links (to web pages of third parties)
 
 Quelle: [twigg.de](http://www.twigg.de/)
 
-####Copyright
+#### Copyright
 Unless stated otherwise Out of Coffee is licensed under a 
 [Creative Commons Attribution-NonCommercial 4.0 International License.](http://creativecommons.org/licenses/by-nc/4.0/)
